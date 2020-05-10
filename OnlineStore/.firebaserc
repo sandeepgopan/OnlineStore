@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "my-project-1588520312281"
+  },
+  "targets": {
+    "my-project-1588520312281": {
+      "hosting": {
+        "OnlineStore": [
+          "my-project-1588520312281"
+        ]
+      }
+    }
+  }
+}

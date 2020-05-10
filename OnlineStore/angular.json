@@ -117,8 +117,13 @@
               "devServerTarget": "OnlineStore:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
-    }},
+    }
+  },
   "defaultProject": "OnlineStore"
 }
